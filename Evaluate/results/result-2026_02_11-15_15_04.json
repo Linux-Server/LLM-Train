@@ -1,0 +1,13 @@
+{
+    "experiment": "run_1",
+    "accuracy": 0.25,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "name": "bert-base-cased",
+    "_timestamp": "2026-02-11T15:15:04.792722",
+    "_git_commit_hash": "b9e1a4e1e17e8e62bb0776292ca79c601a28831f",
+    "_evaluate_version": "0.4.6",
+    "_python_version": "3.12.12 (main, Oct 14 2025, 21:38:21) [Clang 20.1.4 ]",
+    "_interpreter_path": "/Users/sachin/Documents/LLM-Train/.venv/bin/python"
+}
